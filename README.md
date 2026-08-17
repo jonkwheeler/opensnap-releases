@@ -10,10 +10,11 @@ sounds that can mute automatically while another app is using the microphone.
 Visit [jonkwheeler.com/opensnap](https://www.jonkwheeler.com/opensnap) for the
 product page, launch video, installation guide, privacy details, and support.
 
-## Launch media
+## See OpenSnap in action
 
-- [Launch video (`opensnap-launch.mp4`)](https://github.com/jonkwheeler/opensnap-releases/releases/download/media-v1/opensnap-launch.mp4)
-- [Video poster (`opensnap-launch-poster.jpg`)](https://github.com/jonkwheeler/opensnap-releases/releases/download/media-v1/opensnap-launch-poster.jpg)
+[![Watch the OpenSnap launch video](https://github.com/jonkwheeler/opensnap-releases/releases/download/media-v1/opensnap-launch-poster.jpg)](https://github.com/jonkwheeler/opensnap-releases/releases/download/media-v1/opensnap-launch.mp4)
+
+[Watch the 35-second launch video with sound](https://github.com/jonkwheeler/opensnap-releases/releases/download/media-v1/opensnap-launch.mp4)
 
 ## Download
 
