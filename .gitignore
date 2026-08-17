@@ -1,0 +1,13 @@
+.DS_Store
+/.release-assets/
+
+# Distributable binaries and media belong in GitHub Releases, not Git history.
+*.dmg
+*.zip
+*.sha256
+appcast.xml
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+*.png

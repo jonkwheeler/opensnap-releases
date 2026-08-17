@@ -1,0 +1,62 @@
+OpenSnap Source-Available License 1.0
+
+Copyright (c) 2026 Jon Wheeler. All rights reserved.
+
+This license applies to OpenSnap source code, bundled audio, artwork,
+documentation, and other original materials in repository revisions first
+published with this license (the "Materials"). It does not replace or revoke
+any license that applied to an earlier revision, and it does not cover
+third-party components identified in their own license notices.
+
+1. Limited permission
+
+You may view the Materials and make a copy solely to evaluate OpenSnap or to
+make private modifications for your own personal, noncommercial use. You may
+use official OpenSnap application binaries distributed by the copyright owner
+for personal or internal business use without charge.
+
+2. Restrictions
+
+Without prior written permission from the copyright owner, you may not:
+
+- publish, distribute, sublicense, sell, rent, host, or otherwise provide the
+  Materials, OpenSnap binaries, or modified or derivative versions to anyone;
+- use the Materials or a modified version to provide a commercial product,
+  paid service, hosted service, or competing application;
+- remove or alter copyright, attribution, provenance, or license notices;
+- use OpenSnap names, logos, trade dress, or other branding in a way that
+  suggests affiliation, endorsement, or an official release; or
+- use bundled audio or artwork separately from an authorized copy of OpenSnap.
+
+GitHub may exercise the rights required to host this repository, and GitHub
+users may exercise only the repository-viewing and on-platform forking rights
+granted by GitHub's Terms of Service. Those platform rights do not grant
+permission to build, publish, distribute, sell, sublicense, or commercially
+use OpenSnap or a derivative work.
+
+3. Contributions
+
+Unless a separate written agreement says otherwise, any contribution submitted
+to this repository is licensed to the copyright owner under a perpetual,
+worldwide, irrevocable, royalty-free license to use, reproduce, modify,
+distribute, sublicense, and otherwise exploit the contribution as part of
+OpenSnap. Contributors retain ownership of their contributions.
+
+4. Termination
+
+Your permission under this license ends automatically if you violate its
+terms. Upon termination, you must stop using and delete every copy of the
+Materials and any derivative work in your possession or control.
+
+5. No warranty
+
+THE MATERIALS ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, THE COPYRIGHT OWNER WILL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE MATERIALS OR THEIR USE.
+
+6. Separate permission
+
+For redistribution, commercial licensing, partnerships, or another use not
+allowed above, obtain prior written permission from the copyright owner.
