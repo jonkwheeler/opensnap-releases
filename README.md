@@ -17,26 +17,42 @@ product page, launch video, installation guide, privacy details, and support.
 
 ## Download
 
-The first public download will appear on this repository's
-[Releases](https://github.com/jonkwheeler/opensnap-releases/releases) page after
-the macOS application has been signed and notarized. Do not install unofficial
+Download the latest `OpenSnap.dmg` from this repository's
+[Releases](https://github.com/jonkwheeler/opensnap-releases/releases/latest)
+page. Each release also includes a SHA-256 checksum. Do not install unofficial
 copies from another repository or download host.
 
 OpenSnap requires macOS 14 or later.
 
 ## Install
 
-1. Download the latest signed and notarized `OpenSnap.dmg` from Releases.
+1. Download the latest `OpenSnap.dmg` from Releases.
 2. Open the disk image and drag OpenSnap into Applications.
-3. Launch OpenSnap and approve it under **System Settings → Privacy & Security → Accessibility**.
+3. Try to open OpenSnap from Applications, then dismiss the developer warning.
+4. Open **System Settings → Privacy & Security**, scroll to Security, click
+   **Open Anyway**, and confirm.
+5. Launch OpenSnap and grant it Accessibility permission when prompted.
+
+OpenSnap is distributed free of charge and is not Apple-notarized, so macOS
+requires that one-time approval. You should never need to disable Gatekeeper
+globally or run a Terminal command that removes quarantine protection.
 
 Accessibility permission lets OpenSnap read and change the focused window's
 position and size. OpenSnap does not use it to inspect the contents of windows.
 
+To verify a download, place the DMG and checksum file together in Downloads,
+then run:
+
+```sh
+cd ~/Downloads
+shasum -a 256 -c OpenSnap-1.0.0.dmg.sha256
+```
+
 ## Homebrew
 
-Homebrew installation is planned after the first signed and notarized public
-release. Until then, install OpenSnap from the official DMG.
+OpenSnap does not currently provide a Homebrew Cask. The DMG is the primary
+installation path because a Terminal installer would only hide the same
+Gatekeeper approval behind a command.
 
 ## Privacy
 
